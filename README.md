@@ -16,8 +16,7 @@ This is a basic HTML5 website project showcasing **John the CEO's** profile, ser
 - HTML5 (No CSS styling applied yet)
 - Visual Studio Code for development
 
-## 📸 Preview
-_Add screenshots of the webpage here once available._
+
 
 ## 🧑‍💻 Author
 John Nkakuyia — **John the CEO**  
