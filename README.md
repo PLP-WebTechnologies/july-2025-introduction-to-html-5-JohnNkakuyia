@@ -20,7 +20,7 @@ This is a basic HTML5 website project showcasing **John the CEO's** profile, ser
 
 ## 🧑‍💻 Author
 John Nkakuyia — **John the CEO**  
-[GitHub Repository](https://github.com/PLP-WebTechnologies/july-2025-introduction-to-html-5-JohnNkakuyia)
+[GitHub Repository](https://github.com/PLP-WebTechnologies/plp-webtechnologies-classroom-july2025-july-2025-introduction-to-html-5-introduction-to-html5-july-2)
 
 ## 🚀 How to View
 1. Clone the repository:
